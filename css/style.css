@@ -726,6 +726,10 @@ button.posts {
     background-color: #fff;
 }
 
+button {
+    cutsor: pointer:
+}
+
 @media (max-width: 1250px) {
     .container {
         justify-content: flex-start;
