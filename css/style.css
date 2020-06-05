@@ -726,8 +726,8 @@ button.posts {
     background-color: #fff;
 }
 
-button {
-    cutsor: pointer:
+button:hover {
+    cursor: pointer:
 }
 
 @media (max-width: 1250px) {
